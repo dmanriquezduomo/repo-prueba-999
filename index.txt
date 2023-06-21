@@ -1,0 +1,3 @@
+se resolvio el bug
+
+otra liinea
